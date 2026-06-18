@@ -4,7 +4,7 @@ Product builder full-stack. Llevo ideas hasta producción: servidores MCP, pipel
 
 Vengo de 12 años operando y escalando un negocio, así que no solo programo: entiendo al usuario, detecto la oportunidad y la convierto en producto que se puede medir y mejorar. Soy colombiano, así que conozco de primera mano al usuario latinoamericano.
 
-🛠️ Stack: Next.js · React Native / Expo · Firebase · Python · FastAPI · TypeScript · Vercel
+🛠️ Stack: Next.js · React Native / Expo · Firebase · Python · FastAPI · TypeScript · Vercel<br>
 🤖 IA aplicada: LLMs · RAG · Agentes (MCP) · Prompt engineering & evals · Visión por LLM (OCR / IDP)
 
 📫 sebastiansanchezpolanco@gmail.com · Madrid
